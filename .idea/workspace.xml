@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f7f17cf3-12fc-415c-b3ec-c8e832093d72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graph/graph.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/graph_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/graph_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/graph/graph_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +42,11 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsDialog.application.dockerMachine" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/graph" />
       <recent name="$PROJECT_DIR$/main" />
     </key>
   </component>
@@ -57,6 +62,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
+    <state x="2620" y="252" width="533" height="615" key="#Build_Tags_&amp;_Vendoring" timestamp="1597001876417">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2620" y="252" width="533" height="615" key="#Build_Tags_&amp;_Vendoring/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597001876417" />
     <state x="2682" y="380" width="400" height="334" key="#Go_Modules" timestamp="1596937095707">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -65,6 +74,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2426" y="92" width="912" height="911" key="CommitChangelistDialog2/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596937288262" />
+    <state x="2376" y="179" width="1022" height="737" key="SettingsEditor" timestamp="1597001808749">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2376" y="179" width="1022" height="737" key="SettingsEditor/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597001808749" />
     <state x="2482" y="280" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596937296257">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

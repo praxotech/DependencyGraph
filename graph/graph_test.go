@@ -1,8 +1,7 @@
-package main
+package graph
 
 import (
   "testing"
-  _ "github.com/praxotech/DependencyGraph.git/graph"
 )
 
 func TestAddNode(t *testing.T) {
