@@ -15,17 +15,21 @@ type Graph struct {
   pipes *[]Pipe
 }
 
-func AddNode(graph Graph, node Node) bool {
+func AddNode(graph *Graph, node Node) bool {
   var i int
-  var nodes = graph.nodes
-  for i = 1; i < len(*nodes); i++ {
-    if (&(*nodes)[i] == &node) {
+  var nodes = (*graph).nodes
+  for i = 0; i < len(*nodes); i++ {
+    if NodesEqual((*nodes)[i], node) {
       return false
     }
   }
 
-  var newNode = append((*nodes)[: len(*nodes)], node)
-  graph.nodes = &newNode
+  var newNodes = append((*nodes)[: len(*nodes)], node)
+  (*graph).nodes = &newNodes
 
   return true
+}
+
+func NodesEqual(node1 Node, node2 Node) bool {
+  return node1.name == node2.name
 }
