@@ -7,6 +7,7 @@
     <list default="true" id="f7f17cf3-12fc-415c-b3ec-c8e832093d72" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graph/graph.go" beforeDir="false" afterPath="$PROJECT_DIR$/graph/graph.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/graph_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/graph/graph_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,47 @@
       <recent name="$PROJECT_DIR$/main" />
     </key>
   </component>
+  <component name="RunManager" selected="Go Test.TestPipeOperations in github.com/praxotech/DependencyGraph.git/graph">
+    <configuration name="TestAddNode in github.com/praxotech/DependencyGraph.git/graph" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DependencyGraph" />
+      <working_directory value="$PROJECT_DIR$/graph" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/praxotech/DependencyGraph.git/graph" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestAddNode$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestPipeOperations in github.com/praxotech/DependencyGraph.git/graph" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DependencyGraph" />
+      <working_directory value="$PROJECT_DIR$/graph" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/praxotech/DependencyGraph.git/graph" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestPipeOperations$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test graph" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DependencyGraph" />
+      <working_directory value="$PROJECT_DIR$/graph" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/praxotech/DependencyGraph.git" />
+      <directory value="$PROJECT_DIR$/graph" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestPipeOperations in github.com/praxotech/DependencyGraph.git/graph" />
+        <item itemvalue="Go Test.TestAddNode in github.com/praxotech/DependencyGraph.git/graph" />
+        <item itemvalue="Go Test.go test graph" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -65,10 +107,22 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2620" y="252" width="533" height="615" key="#Build_Tags_&amp;_Vendoring/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597001876417" />
+    <state x="2482" y="205" width="800" height="684" key="#Deployment" timestamp="1597017100634">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2482" y="205" width="800" height="684" key="#Deployment/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597017100634" />
     <state x="2682" y="380" width="400" height="334" key="#Go_Modules" timestamp="1596937095707">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2682" y="380" width="400" height="334" key="#Go_Modules/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596937095707" />
+    <state x="2695" y="263" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1597539744622">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2695" y="263" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597539744622" />
+    <state x="2623" y="405" width="579" height="511" key="#xdebugger.evaluate" timestamp="1597612342209">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2623" y="405" width="579" height="511" key="#xdebugger.evaluate/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597612342209" />
     <state x="2426" y="92" width="912" height="911" key="CommitChangelistDialog2" timestamp="1596937288262">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -77,17 +131,60 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2670" y="305" width="424" height="491" key="FileChooserDialogImpl/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597014071825" />
-    <state x="2376" y="179" width="1022" height="737" key="SettingsEditor" timestamp="1597014158076">
+    <state width="1642" height="319" key="GridCell.Tab.0.bottom" timestamp="1597613290527">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2376" y="179" width="1022" height="737" key="SettingsEditor/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597014158076" />
+    <state width="1642" height="319" key="GridCell.Tab.0.bottom/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597613290527" />
+    <state width="1642" height="319" key="GridCell.Tab.0.center" timestamp="1597613290527">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1642" height="319" key="GridCell.Tab.0.center/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597613290527" />
+    <state width="1642" height="319" key="GridCell.Tab.0.left" timestamp="1597613290527">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1642" height="319" key="GridCell.Tab.0.left/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597613290527" />
+    <state width="1642" height="319" key="GridCell.Tab.0.right" timestamp="1597613290527">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1642" height="319" key="GridCell.Tab.0.right/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597613290527" />
+    <state width="1642" height="319" key="GridCell.Tab.1.bottom" timestamp="1597613290831">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1642" height="319" key="GridCell.Tab.1.bottom/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597613290831" />
+    <state width="1642" height="319" key="GridCell.Tab.1.center" timestamp="1597613290831">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1642" height="319" key="GridCell.Tab.1.center/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597613290831" />
+    <state width="1642" height="319" key="GridCell.Tab.1.left" timestamp="1597613290831">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1642" height="319" key="GridCell.Tab.1.left/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597613290831" />
+    <state width="1642" height="319" key="GridCell.Tab.1.right" timestamp="1597613290831">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1642" height="319" key="GridCell.Tab.1.right/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597613290831" />
+    <state x="2376" y="179" width="1022" height="737" key="SettingsEditor" timestamp="1597017170036">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2376" y="179" width="1022" height="737" key="SettingsEditor/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597017170036" />
     <state x="2482" y="280" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596937296257">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2482" y="280" width="800" height="535" key="Vcs.Push.Dialog.v2/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596937296257" />
-    <state x="2550" y="263" key="search.everywhere.popup" timestamp="1596939288488">
+    <state x="2550" y="263" width="672" height="678" key="search.everywhere.popup" timestamp="1597604471474">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2550" y="263" key="search.everywhere.popup/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596939288488" />
+    <state x="2550" y="263" width="672" height="678" key="search.everywhere.popup/46.27.1874.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597604471474" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/graph/graph_test.go</url>
+          <line>61</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
